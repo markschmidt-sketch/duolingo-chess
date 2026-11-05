@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# Personal screenshots stay on this machine.
+fixtures/
+.DS_Store
